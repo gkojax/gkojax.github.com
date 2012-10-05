@@ -119,3 +119,8 @@ def index = Action {
 
 ## 後は [チュートリアル](http://playdocja.appspot.com/documentation/2.0.3/ScalaTodoList) を見ながらサイトを作成
 
+* タスク一覧画面
+* タスクの登録フォーム
+* タスク登録
+* タスクの削除
+
