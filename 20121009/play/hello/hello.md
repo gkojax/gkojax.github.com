@@ -7,6 +7,12 @@
 [@fantechstudy](https://twitter.com/fantechstudy)
 
 !SLIDE
+## 先週発表し忘れたヤツ
+
+* [http://www.slideshare.net/gkojax/fanscala1-4](http://www.slideshare.net/gkojax/fanscala1-4)
+
+
+!SLIDE
 ## Playframework
 
 * JavaとScalaの<br/>webアプリケーションフレームワーク
@@ -39,8 +45,8 @@
 !SLIDE
 ## [Play 2.0 のインストール](http://playdocja.appspot.com/documentation/2.0.3/Installing)
 
-* 前回typesafe-stackをインストールした人は既に入っているはず
-* うまく動かない人はバイナリパッケージのダウンロードをダウンロードしましょう
+* macの人 brew install play
+* windows or linulxの人 バイナリをダウンロード
 
 !SLIDE
 ## [初めての Play アプリケーション](http://playdocja.appspot.com/documentation/2.0.3/ScalaTodoList)
